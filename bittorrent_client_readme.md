@@ -22,7 +22,7 @@ A lightweight, asynchronous BitTorrent client implemented from scratch in Python
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/pytorrent.git
+   git clone https://github.com/kenulaamadoru04-dot/Bit-Torrent-Client.git
    cd pytorrent
    ```
 
